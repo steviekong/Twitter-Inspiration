@@ -5,7 +5,7 @@ const ora = require("ora");
 require("dotenv").config();
 
 const openai = new OpenAI(process.env.OPENAI_API_KEY);
-const SAMPLE_COUNT = 50;
+const SAMPLE_COUNT = 30;
 
 const readFile = () => {
   return new Promise((res, rej) => {

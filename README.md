@@ -55,7 +55,7 @@ Bitcoin is a religion
 
 Your results many vary :)
 
-The script takes a random sample of exactly 50 unique tweets to generate a prompt for GPT-3 so try to get a sample size > 100 for better results.
+The script takes a random sample of exactly 30 unique tweets to generate a prompt for GPT-3 so try to get a sample size > 100 for better results.
 
 ### Big note!
 
